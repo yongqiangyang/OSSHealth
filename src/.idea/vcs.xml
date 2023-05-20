@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-cereslib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-elk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-graal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-kidash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-kingarthur" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-manuscripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-perceval" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-perceval-mozilla" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-perceval-opnfv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-perceval-puppet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-perceval-weblate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-sigils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-sirmordred" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-sortinghat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grimoirelab-toolkit" vcs="Git" />
+  </component>
+</project>

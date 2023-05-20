@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7 (grimoirelab)" project-jdk-type="Python SDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="22903" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/grimoirelab-sirmordred/sirmordred/config.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="10582" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/grimoirelab-elk/grimoire_elk/utils.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="3447" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/grimoirelab-elk/grimoire_elk/raw/github.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/grimoirelab-sirmordred/sirmordred/utils/logs/all.log" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/grimoirelab-elk/grimoire_elk/enriched/gitee.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/grimoirelab-elk/grimoire_elk/enriched/git.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/grimoirelab-sirmordred/sirmordred/utils/logs/tensorflow.log" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/grimoirelab-sirmordred/sirmordred/utils/project_tensorflow.json" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/grimoirelab-sirmordred/sirmordred/utils/setup_tensorflow.cfg" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2556" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/grimoirelab-sigils/panels/json/code_security.json" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>

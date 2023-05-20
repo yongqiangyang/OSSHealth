@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/grimoirelab-cereslib" />
+    <content url="file://$MODULE_DIR$/grimoirelab-elk" />
+    <content url="file://$MODULE_DIR$/grimoirelab-graal" />
+    <content url="file://$MODULE_DIR$/grimoirelab-kidash" />
+    <content url="file://$MODULE_DIR$/grimoirelab-kingarthur" />
+    <content url="file://$MODULE_DIR$/grimoirelab-manuscripts" />
+    <content url="file://$MODULE_DIR$/grimoirelab-perceval" />
+    <content url="file://$MODULE_DIR$/grimoirelab-perceval-mozilla" />
+    <content url="file://$MODULE_DIR$/grimoirelab-perceval-opnfv" />
+    <content url="file://$MODULE_DIR$/grimoirelab-perceval-puppet" />
+    <content url="file://$MODULE_DIR$/grimoirelab-perceval-weblate" />
+    <content url="file://$MODULE_DIR$/grimoirelab-sigils" />
+    <content url="file://$MODULE_DIR$/grimoirelab-sirmordred" />
+    <content url="file://$MODULE_DIR$/grimoirelab-sortinghat" />
+    <content url="file://$MODULE_DIR$/grimoirelab-toolkit" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (grimoirelab)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
